@@ -1,5 +1,5 @@
 {
-  "name": "array-divider",
+  "name": "test",
   "version": "3.0.1",
   "main": "index.js",
   "description": "Create array chunks, giving the length that each chunk will have",
