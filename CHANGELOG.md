@@ -1,5 +1,15 @@
 # [3.0.0](https://github.com/TheEnmanuel23/array-divider/compare/v2.0.0...v3.0.0) (2019-06-05)
 
+## 3.1.0
+
+### Minor Changes
+
+- aa8417c: test config
+
+### Patch Changes
+
+- 34ad2b5: test 3
+
 ## 3.0.1
 
 ### Patch Changes
