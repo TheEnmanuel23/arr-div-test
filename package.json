@@ -21,9 +21,13 @@
     "watch:test": "mocha --watch",
     "report-coverage": "cat ./coverage/lcov.info | codecov",
     "validate": "npm-run-all --parallel lint test build",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "changeset": "changeset",
+    "release": "changeset publish"
   },
   "dependencies": {
+    "@changesets/changelog-github": "^0.4.5",
+    "@changesets/cli": "^2.23.0",
     "@semantic-release/changelog": "^3.0.2",
     "@semantic-release/commit-analyzer": "^6.1.0",
     "@semantic-release/git": "^7.0.8",
