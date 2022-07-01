@@ -84,11 +84,6 @@
       "babel-register"
     ]
   },
-  "config": {
-    "ghooks": {
-      "pre-commit": "yarn validate"
-    }
-  },
   "babel": {
     "presets": [
       "es2015"
