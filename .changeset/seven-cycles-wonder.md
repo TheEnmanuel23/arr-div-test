@@ -1,0 +1,5 @@
+---
+"test": minor
+---
+
+test config
