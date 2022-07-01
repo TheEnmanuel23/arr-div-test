@@ -15,6 +15,7 @@ const arrayDivider = (arrayMain = [], chunkLength = 0) => {
     start += chunkLength;
   }
 
+  console.log(1);
   return newArr;
 };
 
