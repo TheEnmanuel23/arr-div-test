@@ -1,12 +1,12 @@
 {
-  "name": "test",
+  "name": "arr-div-test",
   "version": "3.1.0",
   "main": "index.js",
   "description": "Create array chunks, giving the length that each chunk will have",
-  "repository": "git@github.com:TheEnmanuel23/test.git",
+  "repository": "git@github.com:TheEnmanuel23/arr-div-test.git",
   "author": {
     "name": "Enmanuel Jarquin",
-    "email": "info@enmisac.com",
+    "email": "enmisac@gmail.com",
     "url": "http://enmisac.com"
   },
   "license": "MIT",
