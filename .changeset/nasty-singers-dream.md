@@ -1,5 +1,5 @@
 ---
-"test": patch
+"arr-div-test": patch
 ---
 
 second change
