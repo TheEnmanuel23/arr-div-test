@@ -1,6 +1,6 @@
 {
   "name": "arr-div-test",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "main": "index.js",
   "description": "Create array chunks, giving the length that each chunk will have",
   "repository": "git@github.com:TheEnmanuel23/arr-div-test.git",
